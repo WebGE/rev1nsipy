@@ -3,4 +3,4 @@ Tout comme un musicien fait ses gammes pour s'échauffer et gagner en assurance,
 
 Activités : exercices sur les chaînes de caractères, les listes, les dictionnaires, les ensembles et les tuples.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WebGE/rev1nsipycorr/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WebGE/rev1nsipy/master)
